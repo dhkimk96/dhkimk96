@@ -17,7 +17,7 @@
 
 ---
 ### 💼 Portfolio
-- [자기소개서]()
+- [자기소개서](https://url.kr/bjruyq)
 - [Portfolio](https://typhoon-crane-9cf.notion.site/63aff9e85e854b12b456dad128d24d3f?pvs=4)
   
 ---
